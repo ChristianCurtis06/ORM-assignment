@@ -1,0 +1,1 @@
+This repository includes the assignment: Introduction to Object-relational Mappers (ORM) in Module 6: Lesson 3 of the Software Engineering Core.
